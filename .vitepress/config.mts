@@ -19,7 +19,6 @@ export default defineConfig({
       { text: '实例', 
         items: [
           { text: 'Vue 2', link: '/vue2/' },
-          { text: 'Vue 3', link: '/vue3/' },
           { text: 'markdown实例', link: '/markdown-examples' }
         ]
        }
