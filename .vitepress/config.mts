@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/bmz-vitepress/",
   title: "剑圣智能软件工作室",
   description: "剑圣智能软件工作室",
   head: [
-    ['link', { rel: 'icon', href: '/logo2.svg' }]
+    ['link', { rel: 'icon', href: '/bmz-vitepress/logo2.svg' }]
   ],
   themeConfig: {
     logo: {
