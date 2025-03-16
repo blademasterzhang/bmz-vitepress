@@ -7,7 +7,6 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/logo2.svg' }]
   ],
-  base: '/bmz-vitepress/',
   themeConfig: {
     logo: {
       light: '/logo1.svg',
